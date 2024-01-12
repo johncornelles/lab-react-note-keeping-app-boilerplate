@@ -1,0 +1,27 @@
+.wrapper{
+    display: flex;
+    justify-content: space-around;
+    color: aliceblue;
+}
+body{
+    background-color: rgb(38, 38, 165);
+}
+.inputs{
+    border: 2px solid black;
+    width: 35vw;
+    color: aliceblue;
+    height: 40vh;
+    padding: 20px;
+    outline: none;
+    border-radius: 5px;
+}
+.holder{
+    background-color: rgb(44, 44, 44);
+    width: 25vw;
+    padding: 20px;
+    height: 50vh;
+    border-radius: 5px;
+    color: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    resize: none;
+}
